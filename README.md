@@ -1,3 +1,3 @@
-# 4IT3_project
+# Project
 
-#### These project files are related to the course 4IT3.
+#### These project files.
